@@ -10,4 +10,6 @@ b) Below image shows consumer service get the message given through POSTMAN and 
 ![WhatsApp Image 2025-09-07 at 16 40 46_ba638c47](https://github.com/user-attachments/assets/207782a3-ac91-4b5f-8d56-b2e0e33df3f8)
 
 NOTE - Working on the condition when consumer service server will be down and how producer service going to send message. We will come with a soluion soon.
-Hi I am Saubhagya Mishra XYYX
+
+Hi I am Saubhagya Singh xyz
+
