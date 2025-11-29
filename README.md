@@ -11,5 +11,4 @@ b) Below image shows consumer service get the message given through POSTMAN and 
 
 NOTE - Working on the condition when consumer service server will be down and how producer service going to send message. We will come with a soluion soon.
 
-Hi I am Saubhagya Singh xyz
 
